@@ -70,7 +70,6 @@ public class AmozonProductScarch {
 driver.findElement(By.xpath("//input[@class='chkAgree']")).click();
 
 driver.findElement(By.xpath("//button[text()='Proceed']")).click();
-
 driver.quit();
 
 
